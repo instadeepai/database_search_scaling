@@ -2,6 +2,8 @@
 
 This project provides an interactive scaling analysis for proteomics database search strategies. It uses [marimo](https://marimo.io/) to create a notebook-style web app for exploring how hardware performance and search parameters affect estimated runtimes and memory requirements.
 
+[View the interactive notebook online!](https://molab.marimo.io/github/instadeepai/database_search_scaling/blob/main/database_search_scaling.py)
+
 ## Features
 
 - Interactive sliders and input boxes for hardware and search parameters
